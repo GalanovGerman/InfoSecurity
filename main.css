@@ -1,0 +1,45 @@
+html { background: url('img/background.png'); }
+
+body {
+    background: #f5f0f0;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 30px 25px;
+}
+
+.header{
+    text-align: center;
+    color: #90B5E0;
+    font-size: 40px;
+    padding: 30px 0 10px;
+}
+
+.top_indent{ padding: 10px 0 0 0; }
+.bottom_indent{ padding: 0 0 0 10px; }
+.small_indent{ padding: 0 0 0 5px; }
+
+.text_center{ text-align: center; }
+
+.text_full_width{ 
+    text-align: justify;
+    color: #808080;
+    font-size: 20px;
+    padding: 0 10px 10px 0;
+}
+
+.text_list{
+    text-align: justify;
+    color: #808080;
+    font-size: 20px;
+}
+
+.text_header{
+    text-align: justify;
+    color: #808080;
+    font-size: 25px;
+}
